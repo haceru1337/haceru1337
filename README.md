@@ -1,4 +1,4 @@
-```css
+```cs
 Name: Haceru
 
 Languages: Python, NodeJs, Golang, Bash
