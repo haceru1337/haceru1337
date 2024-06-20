@@ -15,6 +15,6 @@ Location: Romania
 [![](https://visitcount.itsvg.in/api?id=haceru1337&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-dfgr32o1q-cheftheo.vercel.app/api?username=cheftheo&ecount_private=true&show_icons=true&count_private=true&theme=bear" align = "center"/>
-  <img height="180em" src="https://github-readme-stats-dfgr32o1q-cheftheo.vercel.app/api/top-langs/?username=cheftheo&count_private=true&theme=bear&layout=compact" align = "center"/>
+  <img height="180em" src="https://github-readme-stats-dfgr32o1q-cheftheo.vercel.app/api?username=haceru1337&ecount_private=true&show_icons=true&count_private=true&theme=bear" align = "center"/>
+  <img height="180em" src="https://github-readme-stats-dfgr32o1q-cheftheo.vercel.app/api/top-langs/?username=haceru1337&count_private=true&theme=bear&layout=compact" align = "center"/>
 </p>
