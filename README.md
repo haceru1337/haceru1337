@@ -14,6 +14,5 @@ Location: Romania
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-dfgr32o1q-cheftheo.vercel.app/api?username=haceru1337&ecount_private=true&show_icons=true&count_private=true&theme=bear" align = "center"/>
-  <img height="180em" src="https://github-readme-stats-dfgr32o1q-cheftheo.vercel.app/api/top-langs/?username=haceru1337&count_private=true&theme=bear&layout=compact" align = "center"/>
-<img align="right" alt="jpg" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haceru1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="right" alt="jpg" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haceru1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
